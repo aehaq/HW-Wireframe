@@ -5,7 +5,7 @@ Learn html, css, floats, positioning.
 [HW-wireframe](https://aehaq.github.io/HW-Wireframe/)
 
 # Images
-![Wireframe](images/easier-layout.png)
+![Wireframe](images/Easier-Layout.png)
 
 # technology used
 - Html
