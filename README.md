@@ -1,7 +1,6 @@
 # HW-Wireframe
 Learn html, css, floats, positioning.
 
-
 # Link to deployed site
 [HW-wireframe](https://aehaq.github.io/HW-Wireframe/)
 
@@ -16,12 +15,24 @@ Learn html, css, floats, positioning.
 # code snippets
 
 ```
-<div>
-    <h1>
-    </h1>
-</div>
-```
+.aside {
+    box-sizing: border-box;
+    background: #ebebeb;
+    width: 445px;
+    height: 100%;
+    float: right;
+    text-align: center;
+    padding: 40px;
+    }
 
+.footer {
+    clear: both;
+    background: #ebebeb;
+    text-align: center;
+    padding: 40px;
+    margin: 10px 0px 0px 0px;
+    }
+```
 
 # Learning points
 - Using a non-visible div as a container for side by side elements.
@@ -30,7 +41,7 @@ Learn html, css, floats, positioning.
 - Nesting multiple levels of containers.
 
 # Author 
-Azfar Haq - [Repository](https://github.com/aehaq/HW-Wireframe)
+Azfar Haq - [GitHub](https://github.com/aehaq)
 
 # License
 Standard MIT License
